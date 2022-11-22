@@ -5,7 +5,7 @@
   "scripts": {
     "build": "npm run lint",
     "start": "node index.js",
-    "dev": "nodemon -L index.js"
+    "dev": "nodemon -L index.js",
     "lint": "eslint index.js --fix"
   },
   "keywords": [],
